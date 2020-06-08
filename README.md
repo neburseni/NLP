@@ -1,6 +1,9 @@
 # NLP
 NLP  Kaggle Competition: 
 https://www.kaggle.com/c/nlp-getting-started 
+The objective of this competition is to build a machine learning model that predicts which Tweets are about real disasters and which one's aren't. 
+
+
 
 ULMFiT paper and fastai implementation:
 
